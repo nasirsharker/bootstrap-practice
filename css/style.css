@@ -1,0 +1,33 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.topbar{
+	background-color: #3c2520;
+	border: 1px solid red;
+	overflow: hidden;
+}
+.left-topbar{
+	float: left;
+	border: 1px solid red;
+}
+.left-topbar ul{}
+.left-topbar ul li{
+	list-style: none;
+	float: left;
+}
+.left-topbar ul li a{
+
+}
+.right-topbar{
+	float: right;
+	border: 1px solid red;
+}
+.right-topbar ul{}
+.right-topbar ul li{
+	list-style: none;
+	float: left;
+}
+.right-topbar ul li a{}
+.right-topbar ul li a img{}
+
